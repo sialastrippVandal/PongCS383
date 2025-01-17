@@ -2421,7 +2421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e30088c4967f4e24791539a35f0f7a88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 15
+  movementSpeed: 10
   isAI: 0
   ball: {fileID: 121425645}
 --- !u!61 &2133040109
